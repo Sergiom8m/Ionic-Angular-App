@@ -1,0 +1,1 @@
+Aplicación multiplataforma de gestión de ventas con Ionic-Angular
