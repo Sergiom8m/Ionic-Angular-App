@@ -1,0 +1,7 @@
+{
+  "name": "Gestion_de_ventas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
